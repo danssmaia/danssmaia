@@ -1,5 +1,25 @@
 ### Hi there 👋
 
+# Sobre mim
+
+Graduado em Ciências Exatas e Tecnológicas UFRB;
+
+Cursando Engenharia de Computação UFRB;
+
+Estagiário em Desenvolvimento de Software;
+
+# Experiência
+
+Java;
+
+Python;
+
+C++;
+
+HTML5 e CSS3;
+
+Banco de Dados Relacionais;
+
 <!--
 **danssmaia/danssmaia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
