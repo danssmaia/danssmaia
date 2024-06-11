@@ -1,12 +1,13 @@
 ### Hi there. Welcome to my Github profile! 👋
 
 # About me
-- 🔭 I’m currently working on ...
-    Intern in Software Development - UFRB
-    Research Project: Algorithms for Ad Hoc Teamwork in Swarm Traffic Control
+### 🔭 I’m currently working on ...
+- Intern in Software Development - UFRB
+- Research Project: Algorithms for Ad Hoc Teamwork in Swarm Traffic Control
   
-- 🌱 I’m currently studying Computer Engineering
-    Graduate in Exact and Technological Sciences
+### 🌱 I’m currently learning ...
+-Computer Engineering student 
+-Graduate in Exact and Technological Sciences
 
 # Knowledge
 ### LANGUAGES
@@ -18,7 +19,7 @@
 ### Machine Learning
 ![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=%23EE4C2C) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 
-# 
+
 ![Snake animation](https://github.com/danssmaia/danssmaia/blob/output/github-contribution-grid-snake.svg)
 
 <!--
