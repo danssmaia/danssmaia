@@ -10,9 +10,30 @@ jobs:
     name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
-      # Checkout the repository
       - name: Checkout repository
         uses: actions/checkout@v2
+
+      - name: Check if output branch exists
+        id: check-branch
+        run: |
+          if git show-ref --quiet refs/heads/output; then
+            echo "Branch exists"
+            echo "::set-output name=branch_exists::true"
+          else
+            echo "Branch does not exist"
+            echo "::set-output name=branch_exists::false"
+          fi
+
+      - name: Create output branch if it does not exist
+        if: steps.check-branch.outputs.branch_exists == 'false'
+        run: |
+          git checkout -b output
+          git push origin output
+
+      - name: Checkout output branch
+        if: steps.check-branch.outputs.branch_exists == 'true'
+        run: |
+          git checkout output
 
       # Snake Animation
       - name: Generate Snake Animation
