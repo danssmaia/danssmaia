@@ -1,31 +1,31 @@
-### Hi there 👋
+### Hi there. Welcome to my Github profile! 👋
 
-# Sobre mim
+# About me
+- 🔭 I’m currently working on ...
+- Intern in Software Development - UFRB
+- Research Project: Algorithms for Ad Hoc Teamwork in Swarm Traffic Control
+  
+- 🌱 I’m currently studying Computer Engineering
+- Graduate in Exact and Technological Sciences
 
-Graduado em Ciências Exatas e Tecnológicas UFRB;
+# Knowledge
+### LANGUAGES
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white&labelColor=%2300599C) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-Cursando Engenharia de Computação UFRB;
+### DATABASES
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/Mongo-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=%2347A248)
 
-Estagiário em Desenvolvimento de Software;
+### Machine Learning
+![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=%23EE4C2C) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 
-# Experiência
-
-Java;
-
-Python;
-
-C++;
-
-HTML5 e CSS3;
-
-Banco de Dados Relacionais;
+# 
+![Snake animation](https://github.com/danssmaia/danssmaia/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **danssmaia/danssmaia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
