@@ -12,6 +12,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.PAT }}
 
       - name: Check if output branch exists
         id: check-branch
@@ -29,6 +31,8 @@ jobs:
         run: |
           git checkout -b output
           git push origin output
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT }}
 
       - name: Checkout output branch
         if: steps.check-branch.outputs.branch_exists == 'true'
@@ -50,4 +54,4 @@ jobs:
           commit_message: "Update GitHub contribution grid snake"
           branch: output
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PAT }}
