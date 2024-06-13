@@ -20,6 +20,12 @@
 ![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=%23EE4C2C) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 
 
+<div>
+<a href="https://github.com/danssmaia">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danssmaia&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=danssmaia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
 
 <!--
 **danssmaia/danssmaia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
