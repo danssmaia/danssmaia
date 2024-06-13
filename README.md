@@ -22,7 +22,7 @@
 
 <div>
 <a href="https://github.com/danssmaia">
-<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danssmaia&layout=compact&langs_count=7&theme=ReaLTaiizor"/>
+<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danssmaia&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 
