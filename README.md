@@ -2,8 +2,7 @@
 
 # About me
 ### 🔭 I’m currently working on ...
-- Intern in Software Development - UFRB
-- Research Project: Algorithms for Ad Hoc Teamwork in Swarm Traffic Control
+- Innovation Analyst at Ford
   
 ### 🌱 I’m currently learning ...
 - Computer Engineering student 
