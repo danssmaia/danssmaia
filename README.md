@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Daniel Maia
 
-Data Analyst at [Ford](https://www.ford.com?utm_source=chatgpt.com) | Product Analyst Mid-Level - SA PD Innovation, Learning & Development  
+Data Analyst at [Ford](https://www.ford.com) | Product Analyst Mid-Level - SA PD Innovation, Learning & Development  
 
 Computer Engineer Graduate & Bachelor in Exact and Technological Sciences.  
 
