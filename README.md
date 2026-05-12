@@ -1,13 +1,23 @@
 ### Hi there. Welcome to my Github profile! 👋
 
-# About me
-### 🔭 I’m currently working on ...
-- Innovation Analyst at Ford
-  
-### 🌱 I’m currently learning ...
-- Computer Engineering student 
-- Graduate in Exact and Technological Sciences
+## 👨‍💻 Daniel Maia
 
+Data Analyst at [Ford](https://www.ford.com?utm_source=chatgpt.com) | Product Analyst Mid-Level - SA PD Innovation, Learning & Development  
+
+Computer Engineer Graduate & Bachelor in Exact and Technological Sciences.  
+
+### 🚀 Main Skills
+- Data Analysis & Visualization  
+- Python Development  
+- Process Automation 
+- SQL & Data Modeling  
+- Power BI, Qlik Sense & Tableau
+- Dashboard Development  
+- Java & C++ Development  
+
+### 🎯 Areas of Interest
+Data Science, Software Development, Business Intelligence, Big Data, and Innovation.
+<!--
 # Knowledge
 ### LANGUAGES
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white&labelColor=%2300599C) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -25,8 +35,8 @@
 <!--<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=danssmaia&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
 </div>
 
-
 <!--
+
 **danssmaia/danssmaia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
